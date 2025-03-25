@@ -1,6 +1,6 @@
 
 
-### **FutureCast Insights**  
+### **Predictive Analytics and Visualization**  
 **Description:**  
 A predictive analytics framework using LSTM-based models for forecasting trends and visualizing data.  
 
